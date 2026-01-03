@@ -71,9 +71,7 @@ This analysis identifies seasonal trends in total public debt changes.
 
 **Methodology**
 - Used *Record Date* and *Total Public Debt Outstanding*
-- Created a pivot table with:
-- Rows: Month
-- Values: Average of Total Public Debt Outstanding
+- Created a pivot table with months extracted from the Record Date as rows and average Total Public Debt Outstanding as the value field.
 
 **Findings**
 - Highest increases typically occur in **January, February, November, and December**
